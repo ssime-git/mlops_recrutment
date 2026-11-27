@@ -8,7 +8,7 @@ This repository contains a guided machine learning workflow on the [UCI Wine dat
 - `requirements.txt` – Python dependencies needed to run the notebook and prepare for the API task.
 
 ## Getting Started
-1. Create and activate a Python 3.9+ virtual environment.
+1. Create and activate a Python 3.12+ (tested with 3.13) virtual environment.
 2. Install the dependencies:
    ```bash
    pip install -r requirements.txt
